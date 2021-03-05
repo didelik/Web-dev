@@ -1,0 +1,24 @@
+    body {
+      background-color: #fff5ee;
+      background-repeat: ;
+    }
+
+    hr {
+      border-style: none none dotted;
+      border-color: grey;
+      border-width: 10px;
+      width: 20%;
+    }
+
+    img:hover {
+      transform: scaleX(-1);
+    }
+
+    img {
+      filter: saturate(50%);
+    }
+
+    h3 {
+      text-decoration: underline;
+      letter-spacing: 3px;
+    }

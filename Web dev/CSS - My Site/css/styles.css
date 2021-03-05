@@ -1,0 +1,37 @@
+div{
+  background-color: #eff0b6;
+}
+
+body{
+  text-align: center;
+  font-family: monospace;
+}
+
+h1{
+  font-size:5,625em;  /*100%=16px=1em   562.5% = 90px */
+  margin: 0 auto;
+}
+
+p{
+  margin-top: 0;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  padding: 30px;
+}
+
+ .top-cloud{
+  position: relative;
+  padding: 30px;
+  left:200px;
+}
